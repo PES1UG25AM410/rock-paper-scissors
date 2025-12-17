@@ -47,6 +47,11 @@ This project is mainly created to understand basic Python programming, GUI devel
 6. Click **Play Again** to restart the game
 
 ---
+## Team Members
 
-## Project Files
+- Vismai Bharadwaj  
+- Sumedha Bhat  
+- Spandan N  
+- Sudhanva Y K  
+- Sumanth Shastri  
 
